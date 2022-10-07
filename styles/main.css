@@ -1,0 +1,14 @@
+#HelloWorldMessage
+{
+    color: brown;
+}
+
+body
+{
+    background-color: antiquewhite;
+}
+
+#add_new_task
+{
+    padding: 20px;
+}
